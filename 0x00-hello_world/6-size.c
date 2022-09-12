@@ -2,16 +2,14 @@
 
 
 
-/**
+/*
+ * main - prints the string in the put function
  *
- *  * main - prints the size of various types
- *
- *   * Return: 0 if exited properly, non-zero otherwise
- *
- *    */
-
+ * Description: using the main function
+ * this program prints "size of various types"
+ * Return: 0
+ */
 int main(void)
-
 {
 
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
