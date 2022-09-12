@@ -2,15 +2,15 @@
 
 
 
-/**
+/*
  *
- *  * main - prints the phrase with proper grammar,
+ * main - prints the phrase with proper grammar,
+ * Description : using the main function
+ * this program prints " but the outcome is a piece of art,
  *
- *   * but the outcome is a piece of art,
+ * Return: 0
  *
- *    * Return: 0 if exited properly, non-zero otherwise
- *
- *     */
+ */
 
 int main(void)
 
